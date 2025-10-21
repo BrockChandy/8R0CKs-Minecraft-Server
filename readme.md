@@ -19,10 +19,11 @@ HALLOWEEN SHADER STEPS
 
 2. Press the three dots next to the play button and press open folder, this will bring up all the mods in your modpack.
 
-3. Download these two mods and drag them from your downloads folder into the modpack folder we just opened.
+3. Download the Sodium and Iris mods above and drag them from your downloads folder into the modpack folder we just opened.
 
 4. Once they have been added to the modpack folder, press play in CurseForge again and launch into Minecraft.
 
 5. Once you are on the main menu of Minecraft, press Options, Video Settings, and then Shaders. Once you are inside shaders, select Insanity Shader and press apply. Wait a couple seconds as it will be changing many visual things. Press done.
 
 6. Try launching into the Server again and you should have the spooky shader on now! Enjoy!
+
