@@ -4,7 +4,7 @@
 
 3. Once logged in, install Minecraft. Choose Standard Version.
 
-4. Once Minecraft is installed, press import in the top left and insert this code into the profile code section: jJ-2vUSG
+4. Once Minecraft inside CurseForge is installed, press import in the top left and insert this code into the profile code section: jJ-2vUSG
 
 5. Once the modpack is installed, open up the modpack and press play!
 
@@ -25,3 +25,4 @@ HALLOWEEN SHADER STEPS
 5. Once you are on the main menu of Minecraft, press Options, Video Settings, and then Shaders. Once you are inside shaders, select Insanity Shader and press apply. Wait a couple seconds as it will be changing many visual things. Press done.
 
 6. Try launching into the Server again and you should have the spooky shader on now! Enjoy!
+
