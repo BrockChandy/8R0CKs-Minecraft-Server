@@ -8,7 +8,7 @@
 
 5. Once the modpack is installed, open up the modpack and press play!
 
-6. Once you launch the Minecraft modpack in the Minecraft Launcher, select Multiplayer and select Add Server. For name, name it whatever name you would like. For address, put in clear-water.gl.joinmc.link
+6. Once you launch the Minecraft modpack in the Minecraft Launcher, select Multiplayer and select Add Server. For name, name it whatever name you would like. For address, please contact Brock for the address for security purposes.
 
 7. Once you add the server, if Brock is currently hosting it, you should be able to join! Enjoy!
 
@@ -25,4 +25,5 @@ HALLOWEEN SHADER STEPS
 5. Once you are on the main menu of Minecraft, press Options, Video Settings, and then Shaders. Once you are inside shaders, select Insanity Shader and press apply. Wait a couple seconds as it will be changing many visual things. Press done.
 
 6. Try launching into the Server again and you should have the spooky shader on now! Enjoy!
+
 
