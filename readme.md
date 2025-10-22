@@ -4,15 +4,17 @@
 
 3. Once logged in, **install Minecraft. Choose Standard Version.**
 
-4. Once Minecraft inside CurseForge is installed, press **import** in the top left and insert this code into the profile code section: **xFrQv34b**
+4. Once Minecraft inside CurseForge is installed, press **create** in the top left and name it whatever you prefer, for version choose **1.21.1**, for game type choose **NeoForge**, and ModLoader version choose **neoforge-21.1.212**.
 
-   NOTE: DO NOT PRESS ANY BUTTONS EXCEPT **PLAY** INSIDE THE MODPACK TO AVOID ISSUES**
+5. Once you are **inside your profile**, press the **3 dots** next to Play and select **Open Folder**. Once you have the profile folder open, **download the mods.zip in the files above**, extract the files and **put the mods into the profile folder you just opened**.
 
-5. Once the modpack is installed, open up the modpack and press play!
+NOTE: DO NOT PRESS ANY BUTTONS EXCEPT **PLAY** INSIDE THE MODPACK TO AVOID ISSUES**
+   
+7. Once your profile is loaded with the mods, press play!
 
-6. Once you launch the Minecraft modpack in the Minecraft Launcher, select Multiplayer and select Add Server. For name, name it whatever name you would like. **For address, please contact Brock for the address for security purposes.**
+8. Once you are on the main menu of Minecraft, select Multiplayer and select Add Server. For name, name it whatever name you would like. **For address, please contact Brock for the address for security purposes.**
 
-7. Once you add the server, if Brock is currently hosting it, you should be able to join! Enjoy!
+9. Once you add the server, if Brock is currently hosting it, you should be able to join! Enjoy!
 
 HALLOWEEN SHADER STEPS
 
@@ -28,6 +30,7 @@ HALLOWEEN SHADER STEPS
 5. Once you are on the main menu of Minecraft, **press Options, Video Settings, and then Shaders**. Once you are inside shaders, select **Insanity Shader** and press **apply**. Wait a couple seconds as it will be changing many visual things. Press **done**.
 
 6. Try launching into the Server again and you should have the spooky shader on now! Enjoy!
+
 
 
 
