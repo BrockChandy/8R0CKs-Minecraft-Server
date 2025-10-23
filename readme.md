@@ -4,7 +4,7 @@
 
 3. Once logged in, **install Minecraft. Choose Standard Version.**
 
-4. Once Minecraft inside CurseForge is installed, press **import** in the top left and put in this profile code: **s-bg0TM5**
+4. Once Minecraft inside CurseForge is installed, press **import** in the top left and put in this profile code: **NnbarvvA**
 
 NOTE: DO NOT PRESS ANY BUTTONS EXCEPT **PLAY** INSIDE THE MODPACK TO AVOID ISSUES
    
@@ -19,6 +19,7 @@ NOTE: DO NOT PRESS ANY BUTTONS EXCEPT **PLAY** INSIDE THE MODPACK TO AVOID ISSUE
 1. Once you are on the main menu of Minecraft, **press Options, Video Settings, and then Shaders**. Once you are inside shaders, select your desired shader and press **apply**. Wait a couple seconds as it will be changing many visual things. Press **done**.
 
 2. Try launching into the Server again and you should have your desired shader on now! Enjoy!
+
 
 
 
