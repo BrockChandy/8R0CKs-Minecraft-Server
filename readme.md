@@ -6,7 +6,7 @@
 
 3. Once logged in, **install Minecraft. Choose Standard Version.**
 
-4. Once Minecraft inside CurseForge is installed, press **import** in the top left and put in this profile code: **IImK8MN1**
+4. Once Minecraft inside CurseForge is installed, press **import** in the top left and put in this profile code: **-Lbwvqfi**
    
 5. Once your profile is loaded with the mods, press play!
    
@@ -27,6 +27,9 @@
 
 2. Try launching into the Server again, and you should have your desired shader on now! Enjoy!
 
+**BETA CODE**
+1. To access the beta, press **import** in the top left in CurseForge and put in this profile code: **tHJlA050**
+2. You will need to get in contact with Brock if you are hoping to test the Beta server, as it will only be up on request.
 
 
 
