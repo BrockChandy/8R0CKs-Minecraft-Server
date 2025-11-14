@@ -18,7 +18,7 @@
 
 **Installing Manually (Not recommended for beginners)**
 
-1. Either download **Mods.zip** or grab a specific file needed out of the **Mods folder** for your own modloader.
+1. Grab a specific file needed out of the **Mods folder** for your own modloader.
 <br><br>
 
 **FOR SHADERS**
@@ -30,6 +30,7 @@
 **BETA CODE**
 1. To access the beta, press **import** in the top left in CurseForge and put in this profile code: **Tx2WVYCp**
 2. You will need to get in contact with Brock if you are hoping to test the Beta server, as it will only be up on request.
+
 
 
 
