@@ -16,7 +16,7 @@
 
 6. Once you are on the main menu of Minecraft, select Multiplayer and select Add Server. For name, name it whatever name you would like.
    
-7.Please go to **https://tailscale.com/download** and download tailscale for your device.
+7. Please go to **https://tailscale.com/download** and download tailscale for your device.
 
 8. **For server access, please contact Brock for security purposes.**
 
@@ -32,6 +32,7 @@
 1. Once you are on the main menu of Minecraft, **press Options, Video Settings, and then Shaders**. Once you are inside shaders, select your desired shader and press **apply**. Wait a couple of seconds, as it will be changing many visual things. Press **done**.
 
 2. Try launching into the Server again, and you should have your desired shader on now! Enjoy!
+
 
 
 
